@@ -80,12 +80,13 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with Me
 
 <p align="center">
+   &nbsp;
   <a href="mailto:lvb171@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  &nbsp;
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+   &nbsp;
+  <a href="https://t.me/linavs18" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   &nbsp;
   <a href="https://www.instagram.com/lvs18_04/" target="_blank">
