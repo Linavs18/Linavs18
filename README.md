@@ -1,98 +1,117 @@
 <h1 align="center">
-  Hi, I'm Lina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Software+Developer;Student+at+SENA;Passionate+about+Learning+and+Improving;Skilled+in+Python,+Java,+JavaScript,+PHP;Designer+with+Canva+and+Figma;Always+Positive+and+Eager+to+Learn">
-  </a>
-</p>
+  ¡Hola! Soy Lina <br>
+</h1>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <picture><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXEzeG43aXk2NWVsZ3Q4OHA3NGEzdXc2cmVnbWU4cGw1enY1MXFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zGvF3zPrFnvIA/giphy.gif" width="50px"></picture> Sobre mí  
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+<picture> 
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V2cGppOWJncjZyeHo0OGR2eXh0cXl1eDE3enRuZHoxdWU5enhwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lSNErRCiZPck/giphy.gif" width="250px"> 
+</picture>
 
-- 🎓 I am a student at **SENA**, pursuing a technologist degree in **Software Analysis and Development**.
-- 💻 I have experience with programming languages such as **Python**, **Java**, **JavaScript** and **PHP**
-- 🎨 I design graphically with tools such as **Canva** and **Figma**.
-- 🌐 I work with frameworks and tools like **Django**, **React**, and **Node.js**.
-- 🖥️ I use IDEs such as **Visual Studio**, **Visual Studio Code**, and **NetBeans**.
-- 🌱 I am always eager to learn and improve my skills.
-- 😊 I maintain a positive attitude and embrace continuous learning.
+- 🎓 Soy estudiante del **SENA**, cursando la tecnología en **Análisis y Desarrollo de Software**.  
+- 💻 Tengo experiencia en lenguajes de programación como **Python**, **Java**, **JavaScript** y **PHP**.  
+- 🎨 Diseño de forma creativa con herramientas como **Canva** y **Figma**.  
+- 🌐 Trabajo con frameworks y librerías como **Laravel** y **Spring Boot**.  
+- 🖥️ Utilizo IDEs como **Visual Studio Code**, **IntelliJ IDEA**, **Visual Studio** y **NetBeans**.  
+- 🌱 Siempre estoy en busca de nuevos aprendizajes para mejorar mis habilidades.  
+- 😊 Mantengo una actitud positiva y me gusta compartir lo que aprendo.  
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Skills and Tools
 
-### Programming Languages
+### 💻 Programming Languages
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" style="border-radius:50%;"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" style="border-radius:50%;"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" style="border-radius:50%;"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" style="border-radius:50%;"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" style="border-radius:50%;"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" style="border-radius:50%;"/>
 </p>
 
-### Frameworks and Libraries
+### 📚 Frameworks and Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="40" style="border-radius:50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" style="border-radius:50%;"/>
 </p>
 
-### Design Tools
+### 🎨 Design Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" style="border-radius:50%;"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" style="border-radius:50%;"/>
 </p>
 
-### IDEs
+### 🖥️ IDEs
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" style="border-radius:50%;"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40" style="border-radius:50%;"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="40" style="border-radius:50%;"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="40" style="border-radius:50%;"/>
 </p>
 
-### Databases
+### 🗄️ Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" style="border-radius:50%;"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" style="border-radius:50%;"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" style="border-radius:50%;"/>
 </p>
 
-### Operating Systems
+### 💿 Operating Systems
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="40" style="border-radius:50%;"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" style="border-radius:50%;"/>
+</p>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with Me
+---
+
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="mailto:lvb171@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-   &nbsp;
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" width="40" style="border-radius:50%;" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://t.me/linavs18" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" width="40" style="border-radius:50%;" alt="Telegram"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/lvs18_04/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" width="40" style="border-radius:50%;" alt="Instagram"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lina-vanessa-salcedo-cuellar-799647342/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" width="40" style="border-radius:50%;" alt="LinkedIn"/>
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Stats generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Linavs18&show_icons=true&theme=radical" height="180em"/>
+  <!-- Racha de contribuciones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linavs18&theme=radical" height="180em"/>
+</p>
+
+<p align="center">
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linavs18&layout=compact&theme=radical" height="180em"/>
 </p>
 
