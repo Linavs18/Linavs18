@@ -115,3 +115,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linavs18&layout=compact&theme=radical" height="180em"/>
 </p>
 
+## 🏆 Trofeos de GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Linavs18&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
