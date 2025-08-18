@@ -2,7 +2,6 @@
   ¡Hola! Soy Lina <br>
 </h1>
 
----
 
 ## <picture><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXEzeG43aXk2NWVsZ3Q4OHA3NGEzdXc2cmVnbWU4cGw1enY1MXFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zGvF3zPrFnvIA/giphy.gif" width="50px"></picture> Sobre mí  
 
@@ -18,7 +17,6 @@
 - 🌱 Siempre estoy en busca de nuevos aprendizajes para mejorar mis habilidades.  
 - 😊 Mantengo una actitud positiva y me gusta compartir lo que aprendo.  
 
----
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Skills and Tools
 
@@ -77,8 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" style="border-radius:50%;"/>
 </p>
 
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
@@ -98,8 +94,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" width="40" style="border-radius:50%;" alt="LinkedIn"/>
   </a>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
