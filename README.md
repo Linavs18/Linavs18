@@ -66,8 +66,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" style="border-radius:50%;"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" style="border-radius:50%;"/>
-</p>
+  </p>
 
 ### 💿 Operating Systems
 <p align="center">
